@@ -1,0 +1,21 @@
+{
+  "name": "smola",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "a not so rough logging library",
+  "main": "dist/index.js",
+  "repository": {
+  	"type": "git",
+  	"url": "git+https://github.com/idkarn/smola.git"
+  },
+  "keywords": [],
+  "author": "idkarn",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.3",
+    "vite": "^7.2.4"
+  }
+}
